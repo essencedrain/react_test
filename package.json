@@ -11,6 +11,7 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
@@ -41,5 +42,5 @@
   "devDependencies": {
     "prettier": "2.2.1"
   },
-  "homepage":"https://essencedrain.github.io//react_test"
+  "homepage": "https://essencedrain.github.io/react_test"
 }
